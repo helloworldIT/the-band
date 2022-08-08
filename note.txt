@@ -1,0 +1,54 @@
+I. Analyze (One page)
+    1. Header
+        a. Navigation
+            - Home -> ok
+            - Band -> ok
+            - Tour -> ok
+            - More (sub-navigation)
+                + Merchandise
+                + Extras
+                + Media
+        b. Search -> ok
+    2. Slider
+        a. Image.
+        b. Header.
+        c. description
+    3. Content
+        a. Members
+            - Header
+            - Slogan
+            - description
+            - Members(3)
+                + Member name
+                + Member Image
+
+        b. Tours
+            - Header
+            - Reminder
+            - Sell ticket
+                + month - (status: sold out/ quantities)
+            - Tour-place (3)
+                + City's Image
+                + Time.
+                + description
+                + Buy ticket button
+        c. Contact
+            - Header.
+            - Reminder
+            - Information
+            - Form
+                + name
+                + email
+                + message
+                + send button
+        d. Map image
+    4. Footer
+        a. Social(icon)
+            - Facebook 
+            - Instagram
+            - What's app
+            - Pinterest
+            - Twister
+            - Linkin
+        b. License 
+
